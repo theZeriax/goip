@@ -1,2 +1,2 @@
-# DON'T COMMIT .env FILE!
-# .env 
+# Don't commit this file!
+.env
