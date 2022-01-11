@@ -5,7 +5,7 @@ A simple code to get visitor's IP address with Go.
 Every time someone visits the URL, the code will send an email to you.
 
 
-**DON'T USE IT WITHOUT THE VISITOR'S PERMISSION, IT'S ONLY FOR TESTING AND EDUCATIONAL PURPOSE!**
+**DON'T USE IT WITHOUT THE VISITOR'S PERMISSION, IT'S ONLY FOR TESTING PURPOSES!**
 
 ## Installation
 
