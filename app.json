@@ -1,0 +1,11 @@
+{
+  "name": "goip",
+  "description": "Let's Go grab your IP address!",
+  "keywords": [
+    "ip",
+    "go",
+    "goip"
+  ],
+  "website": "http://github.com/zeriaxdev/goip",
+  "repository": "http://github.com/zeriaxdev/goip"
+}
