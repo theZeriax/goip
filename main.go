@@ -176,7 +176,7 @@ func homePage(w http.ResponseWriter, r *http.Request) {
 // http handler for the / endpoint
 func handleRequests() {
 	http.HandleFunc("/", homePage)
-	log.Fatal(http.ListenAndServe(":"+port, nil))
+	log.Fatal(http.ListenAndServe("0.0.0.0:"+port, nil))
 }
 
 func main() {
